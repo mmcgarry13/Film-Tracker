@@ -12,4 +12,6 @@ function App() {
   );
 }
 
+console.log('App.tsx');
+
 export default App;
